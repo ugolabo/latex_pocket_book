@@ -51,6 +51,8 @@ ailleurs en ligne, photos et vidéos
 
 ## Dessin vectoriel
 
+tableaux
+
 en SVG, PDF, matriciel
 
 langages
