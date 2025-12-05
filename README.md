@@ -33,7 +33,9 @@ origine: https://pocketmod.com/
 
 Faire en LaTeX, usages, pêche avec la technique du Tenkara (pêche à la mouche japonaise)
 
-IMG table
+| pense-bête  | inventaire  |
+|---|---|
+| <img src="img/pense-bete.png" alt="" >  | <img src="img/inventaire.png" alt="" >  |
 
 1. Télécharger le module pocketmod et ajouter le fichier pocketmod.sty au répertoire du projet.
     - une des sources LaTeX https://github.com/liantze/pocketmod.sty
