@@ -23,6 +23,11 @@ Un éditeur LaTeX donne beaucoup plus d'options d'édition :
 - Dessins vectoriels : formules mathématique et chimiques, diagrammes avec les modules MetaPost, TikZ, chemfig, forest (pour illustrer la géométrie, la chimie, les arborescences, par exemple), 
 - Faciliter d'incorpoer des images vectorielles PDF, dont des conversions du format SVG; images vectorielles souvents obtenues avec des logiciels de dessions vectoriels pour illustrer toutes sortes de domaines comme la biologie et la médecine. Beaucoup de logiciels permettent de produire des diagrammes d'état
 
+Petit cas
+
+https://fr.scribd.com/doc/288664107/Creating-Pocketmods
+
+https://fr.overleaf.com/latex/templates/creating-pocketmods-with-latex/nqbhpnrkskrx
 
 
 
@@ -30,24 +35,38 @@ Un éditeur LaTeX donne beaucoup plus d'options d'édition :
 
 en SVG, PDF, matriciel
 
-langage
-Graphviz DOT
-PlantUML
+langages
 
-dessin
+Graphviz DOT
+https://graphviz.org/gallery/
+IMG https://graphviz.org/Gallery/neato/ER.html
+IMG https://graphviz.org/Gallery/directed/git.html
+
+PlantUML
+https://plantuml.online/
+exemples de
+systeme_alarme_rpi
+bases_donnees_sql_nosql
+https://toucan-fortune-streamlit-projet-integrateur-01-accueil-0fsbkp.streamlit.app/
+
+interface graphique boostée à l'IAgen parfois
+
+Fritzing
+systeme_alarme_rpi
+
 Dia
+draw.io
 Inkscape
 Vectr
 Adobe Illustrator
 Affinity Designer
 CorelDRAW
 Microsoft Visio
-Lucidchart / Miro / draw.io
+Lucidchart
+Miro
 AutoCAD / FreeCAD
 bioRender
 
 
 
-https://fr.scribd.com/doc/288664107/Creating-Pocketmods
 
-https://fr.overleaf.com/latex/templates/creating-pocketmods-with-latex/nqbhpnrkskrx
