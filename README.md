@@ -31,6 +31,11 @@ Un éditeur LaTeX donne beaucoup plus d'options d'édition :
 
 origine: https://pocketmod.com/
 
+|   |   |   |
+|---|---|---|
+| <img src="img/IMG_2815.JPG" alt="" >  | <img src="img/IMG_2816.JPG" alt="" >  | <img src="img/IMG_2817.JPG" alt="" >  |
+| <img src="img/IMG_2818.JPG" alt="" >  | <img src="img/IMG_2821.JPG" alt="" >  | <img src="img/IMG_2822.JPG" alt="" >  |
+
 Faire en LaTeX, usages, pêche avec la technique du Tenkara (pêche à la mouche japonaise)
 
 | pense-bête  | inventaire  |
