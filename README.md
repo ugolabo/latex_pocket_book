@@ -4,7 +4,9 @@ Un complément au dépôt : **documentations_web_statiques**.
 
 ## Générateurs de sites web statiques
 
-Une documentation avec générateur de sites web statiques comme Read the Docs, GitBook et Quarto est principalement rendue en HTML pour être hébergé en ligne. La création du contenu (texte, images, liens, etc.) est faite en Markdown; langage typographique qui simplifie le langage HTML. Le passage au HTML est facile. 
+Une documentation avec générateur de sites web statiques comme Read the Docs, GitBook et Quarto est principalement rendue en HTML pour être hébergé en ligne. La création du contenu (texte, images, liens, etc.) est faite en Markdown; langage typographique qui simplifie le langage HTML. Le passage au HTML est facile.
+
+petite IMG
 
 Ces solutions offrent l'option de publier en divers formats dont le PDF. La conversion en PDF doit par contre passer par une étape intermédiaire : une conversion en LaTeX; un autre langage typographique.
 
@@ -16,6 +18,8 @@ Il est facile d'exporter un fichier Word en PDF et les éditeurs de Markdown pro
 
 ## LaTeX
 
+IMG logo...
+
 Un éditeur LaTeX donne beaucoup plus d'options d'édition :
 
 - Formats de document : articles, rapports, livres, CV, lettres, présentation et bien d'autres dans différentes tailles d'impression papier.
@@ -23,11 +27,25 @@ Un éditeur LaTeX donne beaucoup plus d'options d'édition :
 - Dessins vectoriels : formules mathématique et chimiques, diagrammes avec les modules MetaPost, TikZ, chemfig, forest (pour illustrer la géométrie, la chimie, les arborescences, par exemple), 
 - Faciliter d'incorpoer des images vectorielles PDF, dont des conversions du format SVG; images vectorielles souvents obtenues avec des logiciels de dessions vectoriels pour illustrer toutes sortes de domaines comme la biologie et la médecine. Beaucoup de logiciels permettent de produire des diagrammes d'état
 
-Petit cas
+## Petit cas
 
-https://fr.scribd.com/doc/288664107/Creating-Pocketmods
+origine: https://pocketmod.com/
 
-https://fr.overleaf.com/latex/templates/creating-pocketmods-with-latex/nqbhpnrkskrx
+Faire en LaTeX, usages, pêche avec la technique du Tenkara (pêche à la mouche japonaise)
+
+IMG table
+
+1. Télécharger le module pocketmod et ajouter le fichier pocketmod.sty au répertoire du projet.
+    - une des sources LaTeX https://github.com/liantze/pocketmod.sty
+    - une autre source LaTeX https://www.overleaf.com/latex/templates/creating-pocketmods-with-latex/nqbhpnrkskrx
+    - https://www.overleaf.com/latex/examples/mini-livre-trigonometrie/ntgbdvthxhnb
+1. Créer le répertoire de travail avec le fichier https://github.com/liantze/pocketmod.sty, les templates de départ, les images (PDF ou matricielles)
+1. Installer, ouvrir un éditeur LaTeX
+1. Démarrer à partir à partir d'un template pour faire son propre fichier; éditer.
+
+Comment plier
+https://github.com/liantze/pocketmod.sty
+ailleurs en ligne, photos et vidéos
 
 
 
