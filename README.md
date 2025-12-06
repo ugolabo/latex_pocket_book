@@ -10,6 +10,8 @@ Une documentation avec générateur de sites web statiques est rendue en HTML po
 
 Certains générateurs offrent l'option de publier en divers formats, dont le PDF. La conversion en PDF doit passer par une étape intermédiaire : une conversion du Markdown au LaTeX; un autre langage typographique.
 
+<img src="img/logo_latex.png" alt="" width="100px" >
+
 ## PDF
 
 Pour différentes raisons -- limiter la diffusion, impression papier, lecture et annotation, etc. -- la documentation est produite directement en PDF.
@@ -18,15 +20,13 @@ Pour différentes raisons -- limiter la diffusion, impression papier, lecture et
 
 GitHub fontionne avec un éditeur Markdown intégré comme bien des services en ligne.
 
-<img src="img/editeur_md.png" alt="" width="500px" >
-
 Les éditeurs Markdown proposent entre autres l'exportation en HTML, ePub et PDF. Cette catégorie regroupe les logiciels : Visual Studio Code, Typora, MarkText, Joplin, Ghostwriter, Zettlr et bien d'autres. Des logiciels spécialisés comme Jupyter Labs le font aussi.
+
+<img src="img/editeur_md.png" alt="" width="500px" >
 
 Les traitements de texte facilent l'exportation en PDF. Cette catégorie regroupe les logiciels : WPS Office, Google Docs, OfficeSuite, MS Word, LibreOffice, FreeOffice et bien d'autres. 
 
 ### Éditeurs LaTeX
-
-<img src="img/logo_latex.png" alt="" width="100px" >
 
 Un éditeur LaTeX est un outil complet pour écrire directement en LaTex, puis compiler en PDF. L'éditeur permet d'éditer toutes sortes de formats et de tailles d'impression papier. Travailler directement en LaTeX ouvre les possibilités :
 
