@@ -18,7 +18,7 @@ Pour différentes raisons -- limiter la diffusion, impression papier, lecture et
 
 ### Éditeurs
 
-GitHub fontionne avec un éditeur Markdown intégré comme bien des services en ligne.
+GitHub fonctionne avec un éditeur Markdown intégré comme bien des services en ligne.
 
 Les éditeurs Markdown proposent entre autres l'exportation en HTML, ePub et PDF. Cette catégorie regroupe les logiciels : Visual Studio Code, Typora, MarkText, Joplin, Ghostwriter, Zettlr et bien d'autres. Des logiciels spécialisés comme Jupyter Labs le font aussi.
 
