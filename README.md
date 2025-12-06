@@ -4,15 +4,15 @@ Un complément au dépôt : **documentations_web_statiques**.
 
 ## Générateurs de sites web statiques
 
-Une documentation avec générateur de sites web statiques est rendue en HTML pour être hébergé en ligne. La création du contenu (texte, images, liens, etc.) est faite en Markdown; langage typographique qui simplifie le langage HTML. Le passage au HTML est facile.
+Une documentation avec générateur de sites web statiques est rendue en HTML pour être hébergé en ligne. Avec la majorité des générateurs, la création du contenu (texte, images, liens, etc.) est faite en Markdown; un langage typographique qui simplifie le langage HTML.
 
 petite IMG
 
-Certains générateurs offrent l'option de publier en divers formats, dont le PDF. La conversion en PDF doit par contre passer par une étape intermédiaire : une conversion du Markdown au LaTeX; un autre langage typographique.
+Certains générateurs offrent l'option de publier en divers formats, dont le PDF. La conversion en PDF doit passer par une étape intermédiaire : une conversion du Markdown au LaTeX; un autre langage typographique.
 
 ## PDF
 
-Pour différentes raisons (limiter la diffusion, impression papier, lecture et annotation, etc.), la documentation est produite directement en PDF.
+Pour différentes raisons -- limiter la diffusion, impression papier, lecture et annotation, etc. -- la documentation est produite directement en PDF.
 
 ### Éditeurs
 
