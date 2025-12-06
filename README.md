@@ -28,14 +28,16 @@ Les traitements de texte facilent l'exportation en PDF. Cette catégorie regroup
 
 ### Éditeurs LaTeX
 
-Un éditeur LaTeX est un outil complet pour écrire directement en LaTex, puis compiler en PDF. L'éditeur permet d'éditer toutes sortes de formats et de tailles d'impression papier. Travailler directement en LaTeX ouvre les possibilités :
+Un éditeur LaTeX est un outil complet pour écrire directement en LaTex, puis compiler en PDF. L'éditeur permet d'éditer toutes sortes de formats et de tailles d'impression papier.
+
+<img src="img/editeur_latex.png" alt="" width="500px" >
+
+Travailler directement en LaTeX ouvre les possibilités :
 
 - Formats de document : articles, rapports, livres, CV, lettres, présentations et bien d'autres formats dans différentes tailles d'impression papier.
 - Richesse d'édition : polices et tailles, caractères spéciaux et alphabets, listes, tableaux, boites et traits, compositions d'images, entêtes, bas de page, tables de matières, des figures, des tableaux, citations et bibliographies, index multiples, etc.
 - Dessins vectoriels avec des modules : formules mathématique et chimiques, diagrammes, illustrations en géométrie, en chimie, en biologie, etc.,
     - Le LaTeX est compatible avec les images vectorielles obtenues avec des logiciels de dessins qui produisent des images PDF et/ou SVG qui se convertissent facilement en PDF. 
-
-<img src="img/editeur_latex.png" alt="" width="500px" >
 
 ## Petit cas de figure LaTeX
 
