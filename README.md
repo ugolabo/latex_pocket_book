@@ -6,7 +6,7 @@ Un complément au dépôt : **documentations_web_statiques**.
 
 Une documentation avec générateur de sites web statiques est rendue en HTML pour être hébergé en ligne. Avec la majorité des générateurs, la création du contenu (texte, images, liens, etc.) est faite en Markdown; un langage typographique qui simplifie le langage HTML.
 
-IMG
+<img src="img/documentations_web_statiques.png" alt="" width="300px" >
 
 Certains générateurs offrent l'option de publier en divers formats, dont le PDF. La conversion en PDF doit passer par une étape intermédiaire : une conversion du Markdown au LaTeX; un autre langage typographique.
 
@@ -16,9 +16,9 @@ Pour différentes raisons -- limiter la diffusion, impression papier, lecture et
 
 ### Éditeurs
 
-GitHub fontionne avec un éditeur Markdown intégré.
+GitHub fontionne avec un éditeur Markdown intégré comme bien des services en ligne.
 
-IMG
+<img src="img/editeur_md.png" alt="" width="300px" >
 
 Les éditeurs Markdown proposent entre autres l'exportation en HTML, ePub et PDF. Cette catégorie regroupe les logiciels : Visual Studio Code, Typora, MarkText, Joplin, Ghostwriter, Zettlr et bien d'autres. Des logiciels spécialisés comme Jupyter Labs le font aussi.
 
@@ -26,7 +26,7 @@ Les traitements de texte facilent l'exportation en PDF. Cette catégorie regroup
 
 ### Éditeurs LaTeX
 
-IMG logo
+<img src="img/logo_latex.png" alt="" width="300px" >
 
 Un éditeur LaTeX est un outil complet pour écrire directement en LaTex, puis compiler en PDF. L'éditeur permet d'éditer toutes sortes de formats et de tailles d'impression papier. Travailler directement en LaTeX ouvre les possibilités :
 
@@ -34,6 +34,8 @@ Un éditeur LaTeX est un outil complet pour écrire directement en LaTex, puis c
 - Richesse d'édition : polices et tailles, caractères spéciaux et alphabets, listes, tableaux, boites et traits, compositions d'images, entêtes, bas de page, tables de matières, des figures, des tableaux, citations et bibliographies, index multiples, etc.
 - Dessins vectoriels avec des modules : formules mathématique et chimiques, diagrammes, illustrations en géométrie, en chimie, en biologie, etc.,
     - Le LaTeX est compatible avec les images vectorielles obtenues avec des logiciels de dessins qui produisent des images PDF et/ou SVG qui se convertissent facilement en PDF. 
+
+<img src="img/editeur_latex.png" alt="" width="300px" >
 
 ## Petit cas de figure LaTeX
 
