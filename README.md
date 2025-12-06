@@ -4,7 +4,7 @@ Un complément au dépôt : **documentations_web_statiques**.
 
 ## Générateurs de sites web statiques
 
-Une documentation avec générateur de sites web statiques est rendue en HTML pour être hébergé en ligne. Avec la majorité des générateurs, la création du contenu (texte, images, liens, etc.) est faite en Markdown; un langage typographique qui simplifie le langage HTML.
+Une documentation avec un générateur de site web statique est rendue en HTML pour être hébergé en ligne. Avec la majorité des générateurs, la création du contenu (texte, images, liens, etc.) est faite en Markdown; un langage typographique qui simplifie le langage HTML.
 
 <img src="img/documentations_web_statiques.png" alt="" width="300px" >
 
