@@ -53,7 +53,7 @@ Voici des versions pour le tenkara (technique de pêche à la mouche japonaise) 
 |---|---|
 | <img src="img/pense-bete.png" alt="" >  | <img src="img/inventaire.png" alt="" >  |
 
-### Mise en place et structure
+## Mise en place et structure
 
 1. Télécharger le projet LaTeX pocketmod d'une source.
     - https://github.com/liantze/pocketmod.sty
