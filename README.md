@@ -18,7 +18,7 @@ Pour différentes raisons -- limiter la diffusion, impression papier, lecture et
 
 GitHub fontionne avec un éditeur Markdown intégré comme bien des services en ligne.
 
-<img src="img/editeur_md.png" alt="" width="300px" >
+<img src="img/editeur_md.png" alt="" width="500px" >
 
 Les éditeurs Markdown proposent entre autres l'exportation en HTML, ePub et PDF. Cette catégorie regroupe les logiciels : Visual Studio Code, Typora, MarkText, Joplin, Ghostwriter, Zettlr et bien d'autres. Des logiciels spécialisés comme Jupyter Labs le font aussi.
 
@@ -26,7 +26,7 @@ Les traitements de texte facilent l'exportation en PDF. Cette catégorie regroup
 
 ### Éditeurs LaTeX
 
-<img src="img/logo_latex.png" alt="" width="300px" >
+<img src="img/logo_latex.png" alt="" width="100px" >
 
 Un éditeur LaTeX est un outil complet pour écrire directement en LaTex, puis compiler en PDF. L'éditeur permet d'éditer toutes sortes de formats et de tailles d'impression papier. Travailler directement en LaTeX ouvre les possibilités :
 
@@ -35,7 +35,7 @@ Un éditeur LaTeX est un outil complet pour écrire directement en LaTex, puis c
 - Dessins vectoriels avec des modules : formules mathématique et chimiques, diagrammes, illustrations en géométrie, en chimie, en biologie, etc.,
     - Le LaTeX est compatible avec les images vectorielles obtenues avec des logiciels de dessins qui produisent des images PDF et/ou SVG qui se convertissent facilement en PDF. 
 
-<img src="img/editeur_latex.png" alt="" width="300px" >
+<img src="img/editeur_latex.png" alt="" width="500px" >
 
 ## Petit cas de figure LaTeX
 
