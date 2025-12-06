@@ -46,7 +46,6 @@ Sans fournir un gros document comme un rapport ou un livre écrit en LaTeX, puis
 |   |   |   |
 |---|---|---|
 | <img src="img/IMG_2815.JPG" alt="" >  | <img src="img/IMG_2816.JPG" alt="" >  | <img src="img/IMG_2817.JPG" alt="" >  |
-| <img src="img/IMG_2818.JPG" alt="" >  | <img src="img/IMG_2821.JPG" alt="" >  | <img src="img/IMG_2822.JPG" alt="" >  |
 
 Voici des versions pour le tenkara (technique de pêche à la mouche japonaise) :
 
