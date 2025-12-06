@@ -4,31 +4,37 @@ Un complément au dépôt : **documentations_web_statiques**.
 
 ## Générateurs de sites web statiques
 
-Une documentation avec générateur de sites web statiques comme Read the Docs, GitBook et Quarto est principalement rendue en HTML pour être hébergé en ligne. La création du contenu (texte, images, liens, etc.) est faite en Markdown; langage typographique qui simplifie le langage HTML. Le passage au HTML est facile.
+Une documentation avec générateur de sites web statiques est rendue en HTML pour être hébergé en ligne. La création du contenu (texte, images, liens, etc.) est faite en Markdown; langage typographique qui simplifie le langage HTML. Le passage au HTML est facile.
 
 petite IMG
 
-Ces solutions offrent l'option de publier en divers formats dont le PDF. La conversion en PDF doit par contre passer par une étape intermédiaire : une conversion en LaTeX; un autre langage typographique.
+Certains générateurs offrent l'option de publier en divers formats, dont le PDF. La conversion en PDF doit par contre passer par une étape intermédiaire : une conversion du Markdown au LaTeX; un autre langage typographique.
 
 ## PDF
 
-Dans certains cas, pour des raisons d'impression papier et parce que la documentation ne doit pas être en ligne, la documentation est produite directement en PDF. Le PDF est un format vectoriel qui facilte l'incorporation d'images et de dessins vectoriels. Un image vectorielle est plus précise qu'une image matricielle (JPG, PNG, etc.).
+Pour différentes raisons (limiter la diffusion, impression papier, lecture et annotation, etc.), la documentation est produite directement en PDF.
 
-Il est facile d'exporter un fichier Word en PDF et les éditeurs de Markdown proposent l'exportation en PDF.
+### Éditeurs
 
-## LaTeX
+Les éditeurs de Markdown proposent entre autres l'exportation en PDF. Cette catégorie regroupe les logiciels comme Visual Studio Code, Typora, MarkText, Joplin, Ghostwriter, Zettlr et plus encore.
+
+Les traitements de texte facilent l'exportation en PDF. WPS Office, Google Docs, OfficeSuite, MS Word, LibreOffice, FreeOffice et plus encore. 
+
+### Éditeurs LaTeX
 
 IMG logo...
 
-Un éditeur LaTeX donne beaucoup plus d'options d'édition :
+Un éditeur LaTeX est un outil complet pour écrire en LaTex et compiler en PDF. L'éditeur permet d'éditer toutes sortes de formats et de tailles d'impression papier. Travailler directement en LaTeX ouvre les possibilités :
 
-- Formats de document : articles, rapports, livres, CV, lettres, présentation et bien d'autres dans différentes tailles d'impression papier.
-- Possibilités d'édition : polices, caractères, listes, tableaux, boites, compositions d'images, entêtes, bas de page, tables de matières, des figures, des tableaux, citations et bibliographie, index multiples, etc.
-- Dessins vectoriels : formules mathématique et chimiques, diagrammes avec les modules MetaPost, TikZ, chemfig, forest (pour illustrer la géométrie, la chimie, les arborescences, par exemple), 
-- Faciliter d'incorpoer des images vectorielles PDF, dont des conversions du format SVG; images vectorielles souvents obtenues avec des logiciels de dessions vectoriels pour illustrer toutes sortes de domaines comme la biologie et la médecine. Beaucoup de logiciels permettent de produire des diagrammes d'état
+- Formats de document : articles, rapports, livres, CV, lettres, présentations et bien d'autres formats dans différentes tailles d'impression papier.
+- Richesse d'édition : polices et tailles, caractères spéciaux et alphabets, listes, tableaux, boites et traits, compositions d'images, entêtes, bas de page, tables de matières, des figures, des tableaux, citations et bibliographies, index multiples, etc.
+- Dessins vectoriels : formules mathématique et chimiques, diagrammes avec les modules MetaPost, TikZ, chemfig, forest (pour des illustrations en géométrie, en chimie, pour dessiner des diagrames et les arborescences, etc.),
+    - Les images vectorielles sont aussi obtenues avec des logiciels de dessins qui produisent des imges PDF et/ou SVG,
+    - Le LaTeX est compatible avec les images PDF ou des conversions en PDF à partir du format SVG. 
 
-## Petit cas
+## Petit cas LaTeX
 
+Sans fournir un gros document comme un rapport ou un livre écrit en LaTeX, puis compilé en PDF.
 origine: https://pocketmod.com/
 
 |   |   |   |
