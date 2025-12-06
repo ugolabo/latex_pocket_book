@@ -16,9 +16,11 @@ Pour différentes raisons -- limiter la diffusion, impression papier, lecture et
 
 ### Éditeurs
 
-Les éditeurs de Markdown proposent entre autres l'exportation en HTML, ePub et PDF. Cette catégorie regroupe les logiciels : Visual Studio Code, Typora, MarkText, Joplin, Ghostwriter, Zettlr et bien d'autres. Des logiciels spécialisés comme Jupyter Labs le font aussi.
+GitHub fontionne avec un éditeur Markdown intégré.
 
 IMG
+
+Les éditeurs Markdown proposent entre autres l'exportation en HTML, ePub et PDF. Cette catégorie regroupe les logiciels : Visual Studio Code, Typora, MarkText, Joplin, Ghostwriter, Zettlr et bien d'autres. Des logiciels spécialisés comme Jupyter Labs le font aussi.
 
 Les traitements de texte facilent l'exportation en PDF. Cette catégorie regroupe les logiciels : WPS Office, Google Docs, OfficeSuite, MS Word, LibreOffice, FreeOffice et bien d'autres. 
 
@@ -50,17 +52,16 @@ Voici des versions pour le tenkara (technique de pêche à la mouche japonaise) 
 
 ### Mise en place et structure
 
-1. Télécharger le module LaTeX pocketmod d'une source.
+1. Télécharger le projet LaTeX pocketmod d'une source.
     - https://github.com/liantze/pocketmod.sty
     - https://www.overleaf.com/latex/templates/creating-pocketmods-with-latex/nqbhpnrkskrx
     - https://www.overleaf.com/latex/examples/mini-livre-trigonometrie/ntgbdvthxhnb
 1. Créer le répertoire de travail avec le fichier pocketmod.sty (le modèle pocketmod), les templates de départ, les images (vectorielles et matricielles).
-1. Ajouter ses propres images.
 1. Installer et ouvrir un éditeur LaTeX.
 1. Démarrer un nouveau projet à partir à partir d'un template. Éditer son propre fichier avec ses images. Compiler. Expérimenter.
 1. Imprimer et suivre le guide de pliage et de découpage sur <a href="https://pocketmod.com/" target="_blank">pocketmod</a> ou d'une des sources du module LaTeX pocketmod.
 
-
+---
 
 ## Dessin vectoriel
 
