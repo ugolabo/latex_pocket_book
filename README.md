@@ -37,7 +37,9 @@ Travailler directement en LaTeX ouvre les possibilités :
 - Formats de document : articles, rapports, livres, CV, lettres, présentations et bien d'autres formats dans différentes tailles d'impression papier.
 - Richesse d'édition : polices et tailles, caractères spéciaux et alphabets, listes, tableaux, boites et traits, compositions d'images, entêtes, bas de page, tables de matières, des figures, des tableaux, citations et bibliographies, index multiples, etc.
 - Dessins vectoriels avec des modules : formules mathématiques et chimiques, diagrammes, illustrations en géométrie, en chimie, en biologie, etc.,
-    - Le LaTeX est compatible avec les images vectorielles obtenues avec des logiciels de dessins qui produisent des images PDF et/ou SVG qui se convertissent facilement en PDF. 
+    - Le LaTeX est compatible avec les images vectorielles obtenues avec des logiciels de dessins qui produisent des images PDF et/ou SVG; ces dernières se convertissent facilement en PDF, car le LaTeX n'accepte pas les images SVG.
+    - Le LaTeX accepte aussi les images matricielles comme les générateurs de sites web statiques et les éditeurs.
+    - Consulter le dépôt : **latex_dessins_vectoriels**.
 
 ## Petit cas de figure LaTeX
 
