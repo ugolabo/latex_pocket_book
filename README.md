@@ -43,7 +43,7 @@ Travailler directement en LaTeX ouvre les possibilités :
 
 ## Petit cas de figure LaTeX
 
-Sans fournir un gros document comme un rapport ou un livre écrit en LaTeX, puis compilé en PDF, le projet <a href="https://pocketmod.com/" target="_blank">pocketmod</a> illustre les possibilités du LaTeX avec un petit template :
+Sans fournir un gros document comme un rapport ou un livre écrit en LaTeX, puis compilé en PDF, le projet <a href="https://pocketmod.com/" target="_blank">pocketmod</a> illustre les possibilités du LaTeX avec un petit template. Ces photos sont tirées du dépôt **github.com/liantze/pocketmod.sty** :
 
 |   |   |   |
 |---|---|---|
