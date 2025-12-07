@@ -14,7 +14,7 @@ Certains générateurs offrent l'option de publier en divers formats, dont le PD
 
 ## PDF
 
-Pour différentes raisons -- limiter la diffusion, impression papier, lecture et annotation, etc. -- la documentation est produite directement en PDF.
+Pour différentes raisons (limiter la diffusion, impression papier, lecture et annotation, etc.) la documentation est produite directement en PDF.
 
 ### Éditeurs
 
