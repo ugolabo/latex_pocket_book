@@ -49,7 +49,7 @@ Sans fournir un gros document comme un rapport ou un livre écrit en LaTeX, puis
 |---|---|---|
 | <img src="img/IMG_2815.JPG" alt="" >  | <img src="img/IMG_2816.JPG" alt="" >  | <img src="img/IMG_2817.JPG" alt="" >  |
 
-Voici des versions pour le tenkara (technique japonaise de pêche à la mouche). Les deux TEX proposés dans ce dépôt ont été compilés en PDF, puis converti en PNG :
+Voici des versions pour le tenkara (technique japonaise de pêche à la mouche). Grâce au modèle pocketmod.sty, les deux fichiers TEX proposés dans ce dépôt ont été compilés en PDF, puis converti en PNG :
 
 | pense-bête  | inventaire  |
 |---|---|
